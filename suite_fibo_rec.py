@@ -1,4 +1,4 @@
-def suite_fibo_rec(n):
+def suite_fibo_rec(n:int)->int:
     if n == 1:
         return 1
     else:
